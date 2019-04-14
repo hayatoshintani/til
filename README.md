@@ -6,7 +6,7 @@ I am studying English.
 Please let me know if there is something strange.
 I write in japanese what I learned.
 
-Japanese follow.
+### Japanese follow
 学んだことは日本語で書いていきます。
 
 ## About
