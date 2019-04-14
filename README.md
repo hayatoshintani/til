@@ -2,8 +2,6 @@
 > Today I learned.
 
 I will write what I learned.
-I am studying English.
-Please let me know if there is something strange.
 I write in japanese what I learned.
 
 ### Japanese follow
